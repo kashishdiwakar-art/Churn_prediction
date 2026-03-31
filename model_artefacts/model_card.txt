@@ -1,0 +1,9 @@
+model_name: Customer Churn Stacking Ensemble
+trained_at: 2026-03-31T16:49:39.559871
+train_samples: 12462
+test_roc_auc: 0.715
+test_f1: 0.2143
+numerical_features: ['SeniorCitizen', 'tenure_months', 'num_products', 'monthly_charges', 'total_charges', 'support_tickets_6mo', 'avg_response_time_hrs', 'login_frequency_weekly', 'feature_usage_score', 'payment_delay_days', 'nps_score', 'charge_per_product', 'avg_monthly_total', 'billing_stress_index', 'engagement_score', 'satisfaction_risk', 'ticket_per_month', 'nps_x_usage', 'high_value_at_risk', 'log_total_charges', 'log_avg_response_time_hrs', 'is_month_to_month', 'is_senior', 'uses_fiber', 'no_internet']
+categorical_features: ['gender', 'Partner', 'Dependents', 'contract_type', 'payment_method', 'internet_service', 'plan_tier', 'referral_source', 'tenure_bucket']
+base_models: ['Random Forest', 'XGBoost', 'LightGBM', 'Gradient Boosting']
+meta_learner: Logistic Regression
