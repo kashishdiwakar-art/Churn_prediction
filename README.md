@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/2a84a413-446a-45d1-a95c-3d7bd1832a9f
-
 <div align="center">
 
 <!-- BANNER -->
