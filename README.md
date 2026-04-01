@@ -570,11 +570,14 @@ The current system is production-ready. The roadmap below shows the natural evol
 
 <br/>
 
+
+##  **Demo video and screenshot**
+
 <img width="1885" height="912" alt="Screenshot 2026-03-31 102709" src="https://github.com/user-attachments/assets/edaaeaa8-8859-43c9-b23e-63d7b06aeaf5" />
 <img width="1609" height="909" alt="Screenshot 2026-03-31 102748" src="https://github.com/user-attachments/assets/56eecb9d-159f-49d0-83cd-9da8b62ce76a" />
 <img width="1503" height="873" alt="Screenshot 2026-03-31 102856" src="https://github.com/user-attachments/assets/b6197fa3-2db2-4af8-b317-b894bb02b368" />
 <img width="1533" height="835" alt="Screenshot 2026-03-31 102922" src="https://github.com/user-attachments/assets/e15ac653-898b-4cf5-957d-61520e3527b0" />
-
+"C:\Users\kashi\OneDrive\Desktop\demo.mp4"
 
 ## 📄 License
 
